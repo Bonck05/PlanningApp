@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PlanningApp/bin/Debug/net9.0
+/PlanningApp/.vs
+/PlanningApp/Migrations/20260616215544_InitCreate2.cs
+/.vs/Coderen
+*.json
+*.sqlite
